@@ -42,3 +42,4 @@ $ npm install
 # Start the development server
 $ npm start
 ```
+Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
